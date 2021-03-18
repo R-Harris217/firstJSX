@@ -3,9 +3,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1 className="h1">Hello Dojo!</h1>
+      <h1>Hello Dojo!</h1>
       <h2>Things I need to do:</h2>
-      <ul>
+      <ul className="toDo">
         <li>Learn React</li>
         <li>Climb Mt. Everest</li>
         <li>Run a marathon</li>
